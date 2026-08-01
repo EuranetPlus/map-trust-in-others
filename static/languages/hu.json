@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyire bíznak egymásban az európaiak?",
+  "subtitle": "2024-ben az EU-ban a polgárok átlagosan 5,8-ra értékelték a másokba vetett bizalmukat 10-ből. Az pontszámok skálája Cipruson, Franciaországban, Litvániában, Szlovéniában és Görögországban 5 alatti értéktől Romániában, Finnországban és Lengyelországban 7-es vagy annál magasabb értékig terjedt.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A másokba vetett bizalom egy személy véleményének vagy érzésének absztrakt értékeléseként definiálható egy alapvető értékkel vagy meggyőződéssel kapcsolatban. A másokra való hivatkozás olyan személyekre vonatkozik, akiket a válaszadó nem ismer.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
