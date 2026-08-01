@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel vertrouwen hebben Europeanen in elkaar?",
+  "subtitle": "In de hele EU gaven burgers in 2024 hun vertrouwen in anderen gemiddeld een score van 5,8 op een schaal van 10. De scores liepen uiteen van minder dan 5 in Cyprus, Frankrijk, Litouwen, Slovenië en Griekenland tot 7 of hoger in Roemenië, Finland en Polen.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Vertrouwen in anderen kan worden gedefinieerd als een abstracte beoordeling van iemands mening of gevoel met betrekking tot een kernwaarde of overtuiging. De verwijzing naar anderen heeft betrekking op personen die de respondent niet kent.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
