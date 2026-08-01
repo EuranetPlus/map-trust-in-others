@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm jafdaw lil xulxin l-Ewropej?",
+  "subtitle": "Madwar l-UE, fl-2024 iċ-ċittadini kklassifikaw il-fiduċja tagħhom f’ħaddieħor b’medja ta’ 5.8 minn 10. Il-firxa tal-punteġġi kienet minn inqas minn 5 f’Ċipru, Franza, il-Litwanja, is-Slovenja u l-Greċja, sa 7 jew ogħla fir-Rumanija, il-Finlandja u l-Polonja.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-fiduċja f'ħaddieħor tista' tiġi definita bħala evalwazzjoni astratta tal-opinjoni jew is-sentiment ta' persuna rigward valur jew twemmin ewlieni. Ir-referenza għal ħaddieħor tirreferi għal individwi li r-rispondent mhux familjari magħhom.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
