@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak moc si Evropané navzájem důvěřují?",
+  "subtitle": "V celé EU v roce 2024 občané hodnotili svou důvěru v ostatní průměrně 5,8 z 10. Rozsah skóre se pohyboval od méně než 5 na Kypru, ve Francii, Litvě, Slovinsku a Řecku do 7 a více v Rumunsku, Finsku a Polsku.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Důvěru v ostatní lze definovat jako abstraktní hodnocení názoru nebo pocitu osoby ohledně základní hodnoty nebo přesvědčení. Odkaz na ostatní se týká osob, které respondent nezná.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
