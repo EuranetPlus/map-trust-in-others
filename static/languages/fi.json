@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon eurooppalaiset luottavat toisiinsa?",
+  "subtitle": "Vuonna 2024 EU:ssa kansalaiset arvioivat luottamuksensa muihin keskimäärin arvosanaksi 5,8/10. Pisteiden vaihteluväli vaihteli alle viidestä Kyproksella, Ranskassa, Liettuassa, Sloveniassa ja Kreikassa arvoon 7 tai enemmän Romaniassa, Suomessa ja Puolassa.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Luottamus muihin voidaan määritellä abstraktina arviona henkilön mielipiteestä tai tunteesta ydinarvosta tai uskomuksesta. Viittaus muihin viittaa henkilöihin, joita vastaaja ei tunne.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
