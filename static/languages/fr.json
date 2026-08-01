@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Dans quelle mesure les Européens se font-ils confiance ?",
+  "subtitle": "Dans l'ensemble de l'UE, en 2024, les citoyens ont évalué leur confiance envers les autres à une moyenne de 5,8 sur 10. Les scores variaient de moins de 5 à Chypre, en France, en Lituanie, en Slovénie et en Grèce, à 7 ou plus en Roumanie, en Finlande et en Pologne.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "La confiance envers autrui peut se définir comme une évaluation abstraite de l'opinion ou du sentiment d'une personne concernant une valeur ou une croyance fondamentale. Le terme « autrui » désigne ici des individus que la personne interrogée ne connaît pas.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
