@@ -1,13 +1,11 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanto si fidano gli europei gli uni degli altri?",
+  "subtitle": "In tutta l'UE, nel 2024 i cittadini hanno valutato la loro fiducia negli altri con una media di 5,8 su 10. I punteggi variavano da meno di 5 a Cipro, Francia, Lituania, Slovenia e Grecia, a 7 o più in Romania, Finlandia e Polonia.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La fiducia negli altri può essere definita come una valutazione astratta dell'opinione o del sentimento di una persona riguardo a un valore o una convinzione fondamentale. Il riferimento agli altri si riferisce a individui che l'intervistato non conosce.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
