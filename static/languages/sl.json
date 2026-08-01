@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko si Evropejci zaupajo?",
+  "subtitle": "Po vsej EU so državljani leta 2024 svoje zaupanje v druge ocenili s povprečno oceno 5,8 od 10. Razpon ocen se je gibal od manj kot 5 na Cipru, v Franciji, Litvi, Sloveniji in Grčiji do 7 ali več v Romuniji, na Finskem in Poljskem.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Zaupanje v druge lahko opredelimo kot abstraktno oceno mnenja ali občutka osebe glede temeljne vrednote ali prepričanja. Sklicevanje na druge se nanaša na posameznike, ki jih anketiranec ne pozna.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
