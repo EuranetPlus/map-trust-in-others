@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Do akej miery si Európania navzájom dôverujú?",
+  "subtitle": "V celej EÚ v roku 2024 občania ohodnotili svoju dôveru v iných v priemere na 5,8 z 10. Rozsah skóre sa pohyboval od menej ako 5 na Cypre, vo Francúzsku, Litve, Slovinsku a Grécku do 7 alebo viac v Rumunsku, Fínsku a Poľsku.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Dôveru v iných možno definovať ako abstraktné hodnotenie názoru alebo pocitu osoby týkajúceho sa základnej hodnoty alebo presvedčenia. Odkaz na iných sa vzťahuje na osoby, s ktorými respondent nie je oboznámený.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
