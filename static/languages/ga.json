@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad muiníne atá ag Eorpaigh as a chéile?",
+  "subtitle": "Ar fud an AE, in 2024, rátáil saoránaigh a muinín i ndaoine eile ag meán de 5.8 as 10. Bhí raon na scór ó níos lú ná 5 sa Chipir, sa Fhrainc, sa Liotuáin, sa tSlóivéin agus sa Ghréig, go 7 nó níos airde sa Rómáin, san Fhionlainn agus sa Pholainn.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Is féidir muinín i ndaoine eile a shainmhíniú mar mheasúnú teibí ar thuairim nó ar mhothúchán duine maidir le luach nó creideamh lárnach. Baineann an tagairt do dhaoine eile le daoine nach bhfuil aithne ag an bhfreagróir orthu.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
