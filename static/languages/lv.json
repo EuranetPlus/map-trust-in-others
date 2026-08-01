@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik lielā mērā eiropieši uzticas viens otram?",
+  "subtitle": "Visā ES 2024. gadā iedzīvotāji savu uzticēšanos citiem novērtēja vidēji ar 5,8 no 10. Rezultātu diapazons bija no mazāk nekā 5 Kiprā, Francijā, Lietuvā, Slovēnijā un Grieķijā līdz 7 vai vairāk Rumānijā, Somijā un Polijā.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Uzticēšanos citiem var definēt kā abstraktu personas viedokļa vai jūtu novērtējumu attiecībā uz pamatvērtību vai pārliecību. Atsauce uz citiem attiecas uz personām, kuras respondents nepazīst.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
