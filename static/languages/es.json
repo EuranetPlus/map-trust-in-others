@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Hasta qué punto confían los europeos los unos en los otros?",
+  "subtitle": "En 2024, los ciudadanos de toda la UE calificaron su confianza en los demás con una media de 5,8 sobre 10. El rango de puntuaciones osciló entre menos de 5 en Chipre, Francia, Lituania, Eslovenia y Grecia, y 7 o más en Rumanía, Finlandia y Polonia.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La confianza en los demás puede definirse como una evaluación abstracta de la opinión o el sentimiento de una persona respecto a un valor o creencia fundamental. La referencia a los demás alude a individuos que el encuestado desconoce.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
