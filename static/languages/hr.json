@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko Europljani vjeruju jedni drugima?",
+  "subtitle": "Diljem EU-a, građani su 2024. godine ocijenili svoje povjerenje u druge s prosječno 5,8 od 10. Raspon rezultata kretao se od manje od 5 na Cipru, u Francuskoj, Litvi, Sloveniji i Grčkoj do 7 ili više u Rumunjskoj, Finskoj i Poljskoj.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Povjerenje u druge može se definirati kao apstraktna procjena nečijeg mišljenja ili osjećaja u vezi s temeljnom vrijednošću ili uvjerenjem. Referenca na druge odnosi se na pojedince s kojima ispitanik nije upoznat.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
