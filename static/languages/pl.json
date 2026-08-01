@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak bardzo Europejczycy ufają sobie nawzajem?",
+  "subtitle": "W całej UE w 2024 roku obywatele ocenili swoje zaufanie do innych na średnio 5,8 na 10. Zakres ocen wahał się od poniżej 5 na Cyprze, we Francji, na Litwie, w Słowenii i Grecji, do 7 lub więcej w Rumunii, Finlandii i Polsce.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Zaufanie do innych można zdefiniować jako abstrakcyjną ocenę opinii lub odczuć danej osoby dotyczących fundamentalnej wartości lub przekonania. Odniesienie do innych dotyczy osób, których respondent nie zna.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
