@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket litar européer på varandra?",
+  "subtitle": "I hela EU betygsatte medborgarna år 2024 sitt förtroende för andra till i genomsnitt 5,8 av 10. Poängspannet varierade från mindre än 5 i Cypern, Frankrike, Litauen, Slovenien och Grekland till 7 eller högre i Rumänien, Finland och Polen.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Tillit till andra kan definieras som en abstrakt utvärdering av en persons åsikt eller känsla gällande ett kärnvärde eller en övertygelse. Referensen till andra avser individer som respondenten inte känner till.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
